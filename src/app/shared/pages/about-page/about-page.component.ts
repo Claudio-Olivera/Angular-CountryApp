@@ -1,17 +1,11 @@
-import { Component, OnInit } from '@angular/core';
-import { Router } from '@angular/router';
+import { Component } from '@angular/core';
 
 @Component({
   selector: 'shared-about-page',
-  template: '',
+  templateUrl: './about-page.component.html',
+  styles: [
+  ]
 })
-export class AboutPageComponent implements OnInit {
-
-constructor(private router: Router){}
-
-  ngOnInit(): void {
-    this.router.navigateByUrl('/');
-  }
-
+export class AboutPageComponent {
 
 }
