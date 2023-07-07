@@ -2,8 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.1.
 
-[Visit this project](https://claudio-olivera.github.io/angular-countryApp/#/countries/by-capital){:target="_blank"}
-
+## [Visit this project{:target="_blank"}](https://claudio-olivera.github.io/angular-countryApp/#/countries/by-capital)
 
 ## Development server
 
