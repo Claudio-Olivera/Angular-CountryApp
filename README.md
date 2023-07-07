@@ -2,7 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.1.
 
-## <a href="https://claudio-olivera.github.io/angular-countryApp/#/countries/by-capital" target="_blank">Visit this project</a>
+[Visit this project](javascript:void(window.open('https://claudio-olivera.github.io/angular-countryApp/#/countries/by-capital')))
+
 
 ## Development server
 
