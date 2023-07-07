@@ -10,8 +10,6 @@ import { SharedModule } from '../shared/shared.module';
 import { CountryTableComponent } from './components/country-table/country-table.component';
 
 
-/* Para github */
-import { LocationStrategy, HashLocationStrategy } from '@angular/common';
 
 
 
@@ -28,7 +26,7 @@ import { LocationStrategy, HashLocationStrategy } from '@angular/common';
     CommonModule,
     CountriesRoutingModule,
     SharedModule
-  ],//para que github pages funcione
-  providers: [{ provide: LocationStrategy, useClass: HashLocationStrategy }],
+  ]
+
 })
 export class CountriesModule { }
